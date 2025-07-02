@@ -14,7 +14,7 @@ protocols:
 - **Bitcoin timestamping:** Submits succinct and verifiable timestamps of any
   data (such as PoS blockchains) to Bitcoin.
 - **Bitcoin staking:** Enables Bitcoin holders to provide economic security to
-  any decentralized system through trustless (and self-custodian) staking.
+  any decentralized system through trustless (and self-custodian) staking .
 
 [![BTC staking
 litepaper](https://badgen.net/badge/icon/BTC%20staking%20litepaper?label=)](https://docs.babylonchain.io/assets/files/btc_staking_litepaper-32bfea0c243773f0bfac63e148387aef.pdf)
