@@ -46,7 +46,7 @@ make build
 
 The binary will then be available at `./build/babylond` .
 
-To install the binary to system directories:
+To install the binary to system directories :
 
 ```console
 make install
